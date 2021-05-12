@@ -1,0 +1,2 @@
+repo del server : https://github.com/mattiaSenni/mpl_server
+repo dell'app di prova del server : https://github.com/mattiaSenni/testTCP
